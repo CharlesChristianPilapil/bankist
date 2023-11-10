@@ -83,7 +83,8 @@ nav .burger {
     display: flex;
     height: 100vh;
     flex-direction: column;
-    background-image: var(--gradient-primary);
+    border: 1px solid red;
+    /* background-image: var(--gradient-primary); */
 }
 
 .left, .right {
