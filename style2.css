@@ -172,7 +172,6 @@ nav .burger {
 
 @media (min-width: 976px) {
     .hero-section {
-        height: 850px;
         flex-direction: row;
     }
 
